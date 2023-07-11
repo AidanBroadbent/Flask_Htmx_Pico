@@ -1,1 +1,1 @@
-Flask HTMX Pico Start
+Flask htmx Pico basic login example
